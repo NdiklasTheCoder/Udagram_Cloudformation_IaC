@@ -12,5 +12,5 @@
 * Networking: CloudFormation script.
 * Server & Security Groups : CloudFormation script.
 
-### Link url to live application
-[Link to Udagram App](http://udagr-webap-1u919ukpahavo-34726026.us-east-1.elb.amazonaws.com)
+## Tools and resources for the project:
+[Link to Udagram App](http://udagr-webap-1u919ukpahavo-34726026.us-east-1.elb.amazonaws.com/)

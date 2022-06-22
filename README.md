@@ -3,7 +3,7 @@
 
 ![img-1](/AWS_Udagram_App_Architecture.png)
 
-![Link to Udagram App](http://udagr-webap-1u919ukpahavo-34726026.us-east-1.elb.amazonaws.com/)
+[Link to Udagram App](http://udagr-webap-1u919ukpahavo-34726026.us-east-1.elb.amazonaws.com/)
 
 ## Tools and resources for the project:
 
